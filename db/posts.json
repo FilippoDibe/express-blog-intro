@@ -1,0 +1,32 @@
+[
+    {
+        "title": "La Bellezza della Natura",
+        "text": "Esplora le meraviglie della natura attraverso foreste incantate e paesaggi mozzafiato.",
+        "image": "natura.jpeg",
+        "tags": ["natura", "paesaggio", "avventura"]
+      },
+      {
+        "title": "Cucina Italiana: Ricette Tradizionali",
+        "text": "Scopri le migliori ricette tradizionali italiane e i segreti della cucina casalinga.",
+        "image": "cucina_italiana.jpeg",
+        "tags": ["cucina", "italia", "ricette"]
+      },
+      {
+        "title": "Tecnologia Futuristica: Cosa Aspettarsi",
+        "text": "Un'occhiata alle innovazioni tecnologiche che cambieranno il nostro futuro.",
+        "image": "tecnologia_futuristica.jpeg",
+        "tags": ["tecnologia", "innovazione", "futuro"]
+      },
+      {
+        "title": "Viaggi Avventurosi: Destinazioni Esotiche",
+        "text": "Esplora le destinazioni più esotiche e avventurose per il prossimo viaggio.",
+        "image": "viaggi_avventurosi.jpeg",
+        "tags": ["viaggi", "avventura", "esotico"]
+      },
+      {
+        "title": "Fitness e Benessere: Guida Completa",
+        "text": "Tutti i consigli e le strategie per mantenersi in forma e vivere una vita sana.",
+        "image": "fitness_benessere.jpeg",
+        "tags": ["fitness", "benessere", "salute"]
+      }
+]
